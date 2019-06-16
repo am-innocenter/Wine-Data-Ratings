@@ -2,7 +2,7 @@
 
 This is a #TidyTuesday challenge setup in May and for the love of wine and experimental spirit I just had to analyse this!
 
-The data is from a wine-enthusiast ratings dataset from Kaggle. A clear relationship from an article based on a different dataset suggested that cost is factored into their rating system. How does the Wine Enthusiast ratings scale compare?
+The data is from a wine-enthusiast ratings dataset from Kaggle. A clear relationship from an article based on a different dataset suggested that cost is factored into their rating system. 
 
 # Objective
 
@@ -14,7 +14,6 @@ The data is from a wine-enthusiast ratings dataset from Kaggle. A clear relation
 The data can be found here : https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-05-28/winemag-data-130k-v2.csv
 
 | variable	| class |	description |
-| :---: | :---: | :---:| 
 |country	|character	|Country of origin|
 |description|	character	|Flavors and taste profile as written by reviewer|
 |designation	|character	|The vineyard within the winery where the grapes that made the wine are from|
